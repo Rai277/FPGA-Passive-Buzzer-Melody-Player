@@ -1,0 +1,30 @@
+# Vivado Generated Files
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.gen/
+.srcs/
+.xpr.user
+
+# Log Files
+*.jou
+*.log
+*.str
+
+# Temporary Files
+*.tmp
+*.backup
+
+# Simulation
+*.wdb
+*.pb
+*.vcd
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/settings.json
